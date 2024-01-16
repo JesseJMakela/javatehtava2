@@ -1,3 +1,6 @@
+// Jesse Mäkelä
+// Java tehtävä 2
+
 package main;
 
 

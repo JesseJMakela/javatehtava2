@@ -1,3 +1,6 @@
+//Jesse Mäkelä
+//Java tehtävä 2
+
 package main;
 
 import java.util.Scanner;
@@ -63,9 +66,10 @@ public class App
                 }
             }
                 else {
-                    System.out.println("Syöte oli väärä");
+                    System.out.println("Syöte on väärä");
             }
             
+        sc.close();
         }
     }
 }
