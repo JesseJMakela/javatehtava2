@@ -68,8 +68,7 @@ public class App
                 else {
                     System.out.println("Syöte on väärä");
             }
-            
-        sc.close();
         }
+        sc.close();
     }
 }
